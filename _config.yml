@@ -84,7 +84,7 @@ author:
   avatar           : "mariossmall.png"
   bio              : "PhD Candidate in Computer Science"
   location         : "New York City"
-  employer         : "City University of New York"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Tu4MLB8AAAAJ&hl=en"
   email            : "m[lastname]@gradcenter.cuny.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
