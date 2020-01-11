@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate working on Cryptography. I am very lucky to have Nelly Fazio as my advisor.
-
-Test.
+Hi! I am a PhD Candidate working on Cryptography. I am very lucky to have Nelly Fazio as my advisor.
