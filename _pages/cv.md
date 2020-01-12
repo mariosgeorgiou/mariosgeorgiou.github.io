@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe width=600 height=500 src="https://docs.google.com/document/d/e/2PACX-1vRehcgwbzer3vWXpUGE_jYwpage9wlRYfmbNZbB9fVVflsNNI5F1BcKGvFOuN3Vvbb28-jraocI4rb-/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRehcgwbzer3vWXpUGE_jYwpage9wlRYfmbNZbB9fVVflsNNI5F1BcKGvFOuN3Vvbb28-jraocI4rb-/pub?embedded=true"></iframe>
 
 Education
 ======
@@ -22,7 +22,6 @@ Work experience
 * Summer 2018: Research Intern
   * ThunderCore, California
   * Duties: Design and Implement Smart Contracts for Gambling
-  * Supervisor: Aggelos Kiayias
   
 * Summer 2017: Research Intern
   * University of Edinburgh and IOHK, United Kingdom
@@ -40,12 +39,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Blockchain
+  * Hands-on experience with Solidity, blockchain technology internals, expertise on smart contracts.
+* Generic
+  * Python, C, Java, Haskell, ML, Prolog, Mathematica, Git, LaTex.
 
 Publications
 ======
