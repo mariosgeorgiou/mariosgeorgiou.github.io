@@ -2,14 +2,20 @@
 title: "New Constructions for Quantum Money"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'TQC 2015'
+excerpt: 'Private-key Quantum Money with 2 Classical Rounds of Communication'
+date: 2015
+venue: 'TQC'
 paperurl: 'http://uoigroeG.github.io/files/quantummoney.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We propose an information theoretically secure secret-key quantum money scheme in which the
+vericcation of a coin is classical and consists of only one round; namely, a classical query from the
+user to the bank and an accept/reject answer from the bank to the user. A coin can be verified
+polynomially (on the number of its qubits) many times before it expires. Our scheme is an improvement
+on Gavinsky's scheme, where three rounds of interaction are needed and is based on the
+notion of quantum retrieval games.
+Moreover, we propose a public-key quantum money scheme which uses one-time memories as
+a building block and is computationally secure in the random oracle model. This construction is
+derived naturally from our secret-key scheme using the fact that one-time memories are a special case
+of quantum retrieval games.
 
 [Download paper here](http://uoigroeG.github.io/files/quantummoney.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
