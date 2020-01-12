@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRehcgwbzer3vWXpUGE_jYwpage9wlRYfmbNZbB9fVVflsNNI5F1BcKGvFOuN3Vvbb28-jraocI4rb-/pub?embedded=true"></iframe>
+In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0gw3RMXgCAl4kxxrNCcdT4xU/edit?usp=sharing).
 
 Education
 ======
