@@ -13,21 +13,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, National Technical University of Athens, 2013
+* M.S. in Computer Science, University Paris 7, Diderot, 2014
+* Ph.D in Computer Science, City University of New York, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * ThunderCore, California
+  * Duties: Design and Implement Smart Contracts for Gambling
+  * Supervisor: Aggelos Kiayias
+  
+* Summer 2017: Research Intern
+  * University of Edinburgh and IOHK, United Kingdom
+  * Supervisor: Aggelos Kiayias
+  
+* Winter 2016-2017: Research Intern
+  * Academia Sinica, Taiwan
+  * Duties: Research on Quantum One-time Memories
+  * Supervisor: Kai-Min Chung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2013: Research Intern
+  * University Paris 7 Diderot, France
+  * Duties: Research on Quantum Money
+  * Supervisor: Iordanis Kerenidis
   
 Skills
 ======
