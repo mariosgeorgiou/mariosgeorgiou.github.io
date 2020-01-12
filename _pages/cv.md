@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRehcgwbzer3vWXpUGE_jYwpage9wlRYfmbNZbB9fVVflsNNI5F1BcKGvFOuN3Vvbb28-jraocI4rb-/pub?embedded=true"></iframe>
+<iframe width=600 height=500 src="https://docs.google.com/document/d/e/2PACX-1vRehcgwbzer3vWXpUGE_jYwpage9wlRYfmbNZbB9fVVflsNNI5F1BcKGvFOuN3Vvbb28-jraocI4rb-/pub?embedded=true"></iframe>
 
 Education
 ======
