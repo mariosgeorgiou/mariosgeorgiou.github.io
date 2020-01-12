@@ -83,7 +83,7 @@ author:
   name             : "Marios Georgiou"
   avatar           : "scholar.jpg"
   bio              : "PhD Candidate in Computer Science"
-  location         : "New York City"
+  location         : 
   employer         : "City University of New York"
   googlescholar    : "https://scholar.google.com/citations?user=Tu4MLB8AAAAJ&hl=en"
   email            : "m[lastname]@gradcenter.cuny.edu"
