@@ -2,7 +2,7 @@
 title: "New Constructions for Quantum Money"
 collection: publications
 permalink: /publication/2015-10-01-quantum-money
-excerpt: 'Construction of private-key quantum money with two-round interaction for verification'
+excerpt: 'Construction of a private-key quantum money where the verification of a coin requires only a two-round classical protocol with the bank.'
 date: 2015-10-01
 venue: 'TQC'
 paperurl: 'http://uoigroeG.github.io/files/quantummoney.pdf'
