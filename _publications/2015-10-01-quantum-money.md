@@ -20,5 +20,3 @@ derived naturally from our secret-key scheme using the fact that one-time memori
 of quantum retrieval games.
 
 [Download paper here](http://uoigroeG.github.io/files/quantummoney.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
