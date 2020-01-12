@@ -1,7 +1,7 @@
 ---
 title: "New Constructions for Quantum Money"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/quantum-money-tqc2015
 excerpt: 'Private-key Quantum Money with 2 Classical Rounds of Communication'
 date: 2015
 venue: 'TQC'
