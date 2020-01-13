@@ -18,5 +18,3 @@ Moreover, we propose a public-key quantum money scheme which uses one-time memor
 a building block and is computationally secure in the random oracle model. This construction is
 derived naturally from our secret-key scheme using the fact that one-time memories are a special case
 of quantum retrieval games.
-
-[Download paper here](http://uoigroeG.github.io/files/quantummoney.pdf)
