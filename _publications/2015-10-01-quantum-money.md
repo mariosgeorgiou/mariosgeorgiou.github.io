@@ -6,7 +6,6 @@ excerpt: 'Construction of a private-key quantum money where the verification of 
 date: 2015-10-01
 venue: 'TQC'
 paperurl: 'http://uoigroeG.github.io/files/quantummoney.pdf'
-citation: 'Georgiou, M., & Kerenidis, I. (2015). New constructions for quantum money. In 10th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2015). Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik.'
 ---
 We propose an information theoretically secure secret-key quantum money scheme in which the
 verification of a coin is classical and consists of only one round; namely, a classical query from the
