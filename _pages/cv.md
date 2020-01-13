@@ -50,18 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Teaching Assistant
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Introduction to Cryptography, Fall 2015, by Prof. Oded Regev, NYU
+* Modern Cryptography, Spring 2016, by Prof. Nelly Fazio, CUNY
