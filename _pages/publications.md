@@ -12,8 +12,4 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fuoigroeg.github.io%2Ffiles%2Fmypubs.bib&jsonp=1"></script>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fuoigroeg.github.io%2Ffiles%2Fmypubs.bib"></iframe>
