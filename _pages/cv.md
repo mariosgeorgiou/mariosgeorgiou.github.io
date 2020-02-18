@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Winter 2019: Cryptography Consultant
+  * ThunderCore, California
+  * Duties: Review Cryptographic Code related to the BLS Signature Aggregation Scheme
+  
 * Summer 2018: Research Intern
   * ThunderCore, California
   * Duties: Design and Implement Smart Contracts for Gambling
