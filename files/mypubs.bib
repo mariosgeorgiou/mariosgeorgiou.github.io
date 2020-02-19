@@ -4,7 +4,11 @@
   booktitle={10th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2015)},
   year={2015},
   organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik},
-  url={http://drops.dagstuhl.de/opus/volltexte/2015/5551/pdf/7.pdf}
+  url={http://drops.dagstuhl.de/opus/volltexte/2015/5551/pdf/7.pdf},
+  abstract = {We propose an information theoretically secure secret-key quantum money scheme in which the veriﬁcation of a coin is classical and consists of only one round; namely, a classical query from the user to the bank and an accept/reject answer from the bank to the user. A coin can be veriﬁed polynomially (on the number of its qubits) many times before it expires. Our scheme is an improvement on Gavinsky’s scheme, where three rounds of interaction are needed and is based on the notion of quantum retrieval games.
+  
+  Moreover, we propose a public-key quantum money scheme which uses one-time memories as a building block and is computationally secure in the random oracle model. This construction is derived naturally from our secret-key scheme using the fact that one-time memories are a special case of quantum retrieval games.
+}
 }
 
 @article{chung2019cryptography,
@@ -16,7 +20,9 @@
   pages={22},
   year={2019},
   url={http://eprint.iacr.org/2018/352.pdf},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  publisher={Multidisciplinary Digital Publishing Institute},
+  abstract = {Backdooring cryptographic algorithms is an indisputable taboo in the cryptographic literature for a good reason: however noble the intentions, backdoors might fall in the wrong hands, in which case security is completely compromised. Nonetheless, more and more legislative pressure is being produced to enforce the use of such backdoors. In this work we introduce the concept of disposablecryptographic backdoors which can be used only once and become useless after that. These exotic primitives are impossible in the classical digital world without stateful and secure trusted hardware support, but, as we show, are feasible assuming quantum computation and access to classical stateless hardware tokens. Concretely, we construct a disposable (single-use) version of message authentication codes, and use them to derive a black-box construction of stateful hardware tokens in the above setting with quantum computation and classical stateless hardwaretokens. Thiscanbeviewedasagenerictransformationfromstatefultostatelesstokensand enables, among other things, one-time programs and memories. This is to our knowledge the ﬁrst provablysecureconstructionofsuchprimitivesfromstatelesstokens.Asanapplicationofdisposable cryptographic backdoors we use our constructed primitive above to propose a middle-ground solution to the recent legislative push to backdoor cryptography: the conﬂict between Apple and FBI. We show that it is possible for Apple to create a one-time backdoor which unlocks any single device, and not even Apple can use it to unlock more than one, i.e., the backdoor becomes useless after it is used. We further describe how to use our ideas to derive a version of CCA-secure public key encryption, which is accompanied with a disposable (i.e., single-use, as in the above scenario) backdoor.
+}
 }
 
 @inproceedings{AGKZ20,
@@ -38,5 +44,14 @@ We show that one-shot signatures have numerous applications for hybrid quantum/c
     author = {Marios Georgiou and Mark Zhandry},
     title = {Uncloneable Decryption Keys},
     note = {Manuscript submitted for publication},
-    year = {2020}
+    year = {2020},
+    abstract = {We initiate the study of encryption schemes where the decryption keys are unclonable quantum objects, which we call \emph{single decryptor} encryption. We give a number of initial results in this area:
+\begin{itemize}
+    \item We formalize the notion of single decryptor encryption.
+    \item We show that secret-key single decryptor encryption is possible unconditionally, in the setting where a limited number of ciphertexts are given. However, given an encryption oracle, we show that unconditional security is impossible.
+    \item We show how to use a very recent notion of \emph{one-shot signatures}, together with sufficiently powerful witness encryption, to achieve public key single decryptor encryption.
+    \item We demonstrate a number of extensions of our scheme, achieving a number of interesting properties that are not possible classically.
+\end{itemize}
+
+\keywords{Unclonable decryption  \and Quantum decryption keys \and Delayed decryption.}}
 }
