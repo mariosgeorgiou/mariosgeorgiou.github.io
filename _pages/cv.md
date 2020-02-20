@@ -23,11 +23,11 @@ Work experience
   * ThunderCore, California
   * Duties: Review Cryptographic Code related to the BLS Signature Aggregation Scheme
   
-* Summer 2018: Research Intern
+* Summer 2018: Intern
   * ThunderCore, California
-  * Duties: Design and Implement Smart Contracts for Gambling
+  * Duties: Design and Implement in Solidity Smart Contracts for Gambling
   
-* Summer 2017: Research Intern
+* Summer 2017: Intern
   * University of Edinburgh and IOHK, United Kingdom
   * Supervisor: Aggelos Kiayias
   
