@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0gw3RMXgCAl4kxxrNCcdT4xU/edit?usp=sharing).
+In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0gw3RMXgCAl4kxxrNCcdT4xU/export?format=pdf).
 
 Education
 ======
