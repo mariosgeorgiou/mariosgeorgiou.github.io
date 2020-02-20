@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome!"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,4 +12,8 @@ I am a PhD Candidate working on Classical and Quantum Cryptography at the [Gradu
 
 I am supported by the National Science Foundation (NSF), under Grant 40D03-00-01.
 
-Can we build a decentralized cryptocurrency without a blockchain and need for active consensus, where new coins are mined using proof of work and transactions happen almost instantly using only classical communication? Most likely yes! [This](https://medium.com/@mgeorgiou.ece/a-secure-and-decentralized-cryptocurrency-without-a-blockchain-182ccb9170a6) 2-minute article shows how.
+I am planning to defend this May and looking for full-time opportunities in the industry on software engineering and/or research on Cryptography and Security.
+
+Blockchain-less Cryptocurrency?
+======
+Can we build a decentralized cryptocurrency without a blockchain and need for active consensus, where new coins are mined using proof of work and transactions happen almost instantly using only classical communication? Most likely yes! [This](https://medium.com/@mgeorgiou.ece/a-secure-and-decentralized-cryptocurrency-without-a-blockchain-182ccb9170a6) 2-minute article summarizes how.
