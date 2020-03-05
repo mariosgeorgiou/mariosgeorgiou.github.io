@@ -12,7 +12,7 @@ I am a PhD Candidate working on Classical and Quantum Cryptography at the [Gradu
 
 I am supported by the National Science Foundation (NSF), under Grant 40D03-00-01.
 
-I am planning to defend this May and looking for full-time opportunities in the industry on software engineering and/or research on Cryptography and Security.
+I am planning to defend this May and looking for full-time opportunities in Tech and Fintech on software engineering/research.
 
 Blockchain-less Cryptocurrency?
 ======
