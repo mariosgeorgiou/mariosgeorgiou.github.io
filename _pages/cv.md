@@ -13,9 +13,9 @@ In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0g
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, National Technical University of Athens, 2013
-* M.S. in Computer Science, University Paris 7, Diderot, 2014
 * Ph.D in Computer Science, City University of New York, 2020 (expected)
+* M.S. in Computer Science, University Paris 7, Diderot, 2014
+* B.S. in Electrical and Computer Engineering, National Technical University of Athens, 2013
 
 Work experience
 ======
@@ -32,7 +32,9 @@ Work experience
 
 * Summer 2017: Intern
   * University of Edinburgh and IOHK, United Kingdom
-  * Supervisor: Aggelos Kiayias
+    * Compared different post-quantum signature schemes according to key/signature size and signing/verification times and their applicability to quantum-secure blockchains.
+    * Designed a quantum money protocol without need for a public common ledger and with classical communication. The protocol makes use of a modification of quantum lightning.
+
   
 * Winter 2016-2017: Research Intern
   * Academia Sinica, Taiwan
