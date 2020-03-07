@@ -21,12 +21,15 @@ Work experience
 ======
 * Winter 2019: Cryptography Consultant
   * ThunderCore, California
-    * Duties: Review Cryptographic Code related to the BLS Signature Aggregation Scheme.
-  
+    * Reviewed cryptographic code and confirm an attack on a previous version of a cryptographic protocol for signature aggregation.
+    * Compared existing libraries implementing the [Boneh, Lynn, Shacham] signature aggregation scheme.
+    * Provided additional resources and answer cryptographic questions to the Core team.
+
 * Summer 2018: Intern
   * ThunderCore, California
-  * Duties: Design and Implement in Solidity Smart Contracts for Gambling
-  
+    * Designed and developed in Solidity several versions of smart contracts for 1 vs 1 fair randomness generation using modifications of coin-flipping protocols.
+    * Unit, functional and manual testing of smart contracts for randomness generation, Ethereum Name Service and Timestamping contracts, ERC-20 and ERC-721 tokens.
+
 * Summer 2017: Intern
   * University of Edinburgh and IOHK, United Kingdom
   * Supervisor: Aggelos Kiayias
