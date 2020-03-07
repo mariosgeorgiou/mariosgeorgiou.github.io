@@ -21,7 +21,7 @@ Work experience
 ======
 * Winter 2019: Cryptography Consultant
   * ThunderCore, California
-  * Duties: Review Cryptographic Code related to the BLS Signature Aggregation Scheme
+   * Duties: Review Cryptographic Code related to the BLS Signature Aggregation Scheme.
   
 * Summer 2018: Intern
   * ThunderCore, California
