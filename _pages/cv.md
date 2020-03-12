@@ -19,13 +19,13 @@ Industry experience
     * Compared existing libraries implementing the [Boneh, Lynn, Shacham] signature aggregation scheme.
     * Provided additional resources and answer cryptographic questions to the Core team.
 
-* Summer 2018: Intern
+* Summer 2018: Software Engineering Intern
   * ThunderCore, California
     * Designed and developed in Solidity several versions of smart contracts for 1 vs 1 fair randomness generation using modifications of coin-flipping protocols.
     * Unit, functional and manual testing of smart contracts for randomness generation, Ethereum Name Service and Timestamping contracts, ERC-20 and ERC-721 tokens.
 
-* Summer 2017: Intern
-  * University of Edinburgh and IOHK, United Kingdom
+* Summer 2017: Research Intern
+  * IOHK and University of Edinburgh, United Kingdom
     * Compared different post-quantum signature schemes according to key/signature size and signing/verification times and their applicability to quantum-secure blockchains.
     * Designed a quantum money protocol without need for a public common ledger and with classical communication. The protocol makes use of a modification of quantum lightning.
 
