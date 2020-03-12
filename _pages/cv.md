@@ -11,8 +11,13 @@ redirect_from:
 
 In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0gw3RMXgCAl4kxxrNCcdT4xU/export?format=pdf).
 
-Industry experience
+Εxperience
 ======
+* August 2014 - May 2020: PhD in Computer Science
+  * City University of New York
+    * Introduced a new class of cryptographic objects where the holder of the secret key is limited in several ways such as they cannot clone the key or they can only use it a fixed number of times.
+    * Designed applications including a decentralized cryptocurrency protocol without the need for a blockchain.
+
 * Winter 2019: Cryptography Consultant
   * ThunderCore, California
     * Reviewed cryptographic code and confirm an attack on a previous version of a cryptographic protocol for signature aggregation.
