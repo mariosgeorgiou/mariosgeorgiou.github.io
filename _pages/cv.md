@@ -11,13 +11,7 @@ redirect_from:
 
 In [printable version](https://docs.google.com/document/d/1cQ0d0CVGzYeGkpc_2Wu0gw3RMXgCAl4kxxrNCcdT4xU/export?format=pdf).
 
-Education
-======
-* Ph.D in Computer Science, City University of New York, 2020 (expected)
-* M.S. in Computer Science, University Paris 7, Diderot, 2014
-* B.S. in Electrical and Computer Engineering, National Technical University of Athens, 2013
-
-Work experience
+Industry experience
 ======
 * Winter 2019: Cryptography Consultant
   * ThunderCore, California
@@ -35,16 +29,11 @@ Work experience
     * Compared different post-quantum signature schemes according to key/signature size and signing/verification times and their applicability to quantum-secure blockchains.
     * Designed a quantum money protocol without need for a public common ledger and with classical communication. The protocol makes use of a modification of quantum lightning.
 
-  
-* Winter 2016-2017: Research Intern
-  * Academia Sinica, Taiwan
-  * Duties: Research on Quantum One-time Memories
-  * Supervisor: Kai-Min Chung
-
-* Spring 2013: Research Intern
-  * University Paris 7 Diderot, France
-  * Duties: Research on Quantum Money
-  * Supervisor: Iordanis Kerenidis
+Education
+======
+* Ph.D in Computer Science, City University of New York, 2020 (expected)
+* M.S. in Computer Science, University Paris 7, Diderot, 2014
+* B.S. in Electrical and Computer Engineering, National Technical University of Athens, 2013
   
 Skills
 ======
