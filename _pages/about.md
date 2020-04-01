@@ -14,6 +14,11 @@ I am supported by the National Science Foundation (NSF), under Grant 40D03-00-01
 
 I am planning to defend this May and actively looking for full-time opportunities in Tech and Fintech on software engineering/research.
 
+News
+====
+- 4/1/2020: ERC Portofolio. I just implemented an [ERC Porfolio](https://github.com/mariosgeorgiou/ERCPortfolio) in C++!
+- 2/11/2020: Our paper ["One-shot Signatures and Applications to Quantum/Classical Hybrid Authentication"](https://eprint.iacr.org/2020/107) got accepted at STOC 2020.
+
 Blockchain-less Cryptocurrency?
 ======
 Can we build a decentralized cryptocurrency without a blockchain and need for active consensus, where new coins are mined using proof of work and transactions happen almost instantly using only classical communication? Most likely yes! [This](https://medium.com/@mgeorgiou.ece/a-secure-and-decentralized-cryptocurrency-without-a-blockchain-182ccb9170a6) 2-minute article summarizes how.
