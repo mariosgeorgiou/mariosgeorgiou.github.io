@@ -16,7 +16,7 @@ I am planning to defend this May and actively looking for full-time opportunitie
 
 News
 ====
-- 4/1/2020: ERC Portofolio. Here is an early version of an [ERC Porfolio](https://github.com/mariosgeorgiou/ERCPortfolio) implemented in C++.
+- 4/1/2020: ERC Portofolio. I just finished up an early [version](https://github.com/mariosgeorgiou/ERCPortfolio) of an equally distributed risk portfolios in C++. Feel free to pull and experiment!
 - 2/11/2020: Our paper ["One-shot Signatures and Applications to Hybrid Quantum/Classical Authentication"](https://eprint.iacr.org/2020/107) got accepted at STOC 2020.
 
 Blockchain-less Cryptocurrency?
