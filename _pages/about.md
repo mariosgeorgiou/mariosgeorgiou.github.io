@@ -12,8 +12,6 @@ I am a PhD Candidate working on Classical and Quantum Cryptography at the [Gradu
 
 I am supported by the National Science Foundation (NSF), under Grant 40D03-00-01.
 
-I am planning to graduate on Summer 2020 and actively looking for full-time roles on software engineering/research.
-
 News
 ====
 - 4/1/2020: ERC Portofolio. I just finished up an early [version](https://github.com/mariosgeorgiou/ERCPortfolio) of an equally distributed risk portfolio in C++. Feel free to pull and experiment!
