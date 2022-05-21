@@ -17,6 +17,8 @@ News
 ====
 - 3/3/2022: Our paper [Security Foundations for Application-Based Covert Communication Channels](https://www.computer.org/csdl/proceedings-article/sp/2022/131600b527/1CIO7vNYMSs) was accepted at S&P 2022.
 - 12/15/2021: Our paper [Towards a Formal Treatment of Logic Locking](https://tches.iacr.org/index.php/TCHES/article/view/9482) was accepted at CHES 2022.
+
+
 <!-- - 4/1/2020: ERC Portofolio. I just finished up an early [version](https://github.com/mariosgeorgiou/ERCPortfolio) of an equally distributed risk portfolio in C++. Feel free to pull and experiment!
 - 2/11/2020: Our paper ["One-shot Signatures and Applications to Hybrid Quantum/Classical Authentication"](https://eprint.iacr.org/2020/107) was accepted at STOC 2020. -->
 
