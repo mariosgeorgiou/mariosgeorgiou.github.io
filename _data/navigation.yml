@@ -5,6 +5,10 @@ main:
     
   - title: "CV"
     url: /cv/  
+
+
+  - title: "Blog Posts"
+    url: /blog/   
     
-  - title: "Personal"
-    url: /personal/
+  # - title: "Personal"
+  #   url: /personal/
