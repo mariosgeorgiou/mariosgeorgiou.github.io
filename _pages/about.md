@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Hi,"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer and Researcher at [Galois](https://galois.com/).
+I'm Marios and I am a Software Engineer and Researcher at [Galois](https://galois.com/).
 I received my PhD on Cryptography from the [Graduate Center](https://www.gc.cuny.edu) of the City University of New York. I was very grateful to have [Nelly Fazio](http://www-cs.ccny.cuny.edu/~fazio/)  as my advisor. Before joining CUNY, I received my [Master in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) from Paris 7 Diderot under the supervision of [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html). Before that, I studied [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) at the National Technical University of Athens and was a member of [CoReLab](http://corelab.ntua.gr/).
 
 <!-- I am supported by the National Science Foundation (NSF), under Grant 40D03-00-01. -->
